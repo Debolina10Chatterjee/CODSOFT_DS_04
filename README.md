@@ -21,6 +21,7 @@ To run the code for this project, you need the following Python libraries:
 4. **Model Evaluation**: Evaluate model performance using regression metrics such as Mean Absolute Error (MAE), Mean Squared Error (MSE), and R-squared.
 5. **Prediction**: Use the trained model to make predictions on new sales data.
 6. 🚀 Clone the repository:
+   https://github.com/Debolina10Chatterjee/CODSOFT_DS_04.git
    
 
 ## 📁 Files
@@ -29,11 +30,10 @@ To run the code for this project, you need the following Python libraries:
 - **README.md**: Overview of the project and instructions for usage.
 
 ## 🔗 Contact
-For inquiries or feedback, contact:
-- Email ✉️: [your-email@example.com](mailto:your-email@example.com)
-- LinkedIn 🔗: [Your LinkedIn Profile](https://www.linkedin.com/in/your-profile/)
-- GitHub 🐱‍💻: [Your GitHub Profile](https://github.com/your-profile/)
+Questions or suggestions? Reach out to:
 
+DEBOLINA CHATTERJEE
+Email: debolinachatterjee1011@gmail.com (mailto:debolinachatterjee1011@gmail.com)
 ## 💡 References
 - [Sample Sales Dataset](https://www.kaggle.com/your-sales-dataset)
 
